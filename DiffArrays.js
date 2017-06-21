@@ -1,7 +1,6 @@
 
 function diffArray(arr1, arr2) {
   var newArr = [];
-  // Same, same; but different
   
   /*
   Return a concatenation of both arrays
